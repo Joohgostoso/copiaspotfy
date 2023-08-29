@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 0, 0);
+
+}
+.menu{
+    margin-right: 1000px;
+    background-color: rgb(8, 8, 8);
+    border-radius: 10px;
+}
+.menu button{
+    width: 230px;
+    height: 50px;
+    border-style: none;
+    color:white;
+    background-color:rgb(8, 8, 8);
+    text-align: start;
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+}
+.biblioteca{
+    background-color: rgb(8, 8, 8);
+}
